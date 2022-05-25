@@ -1,4 +1,5 @@
 # ***\#admire*** vt
+
 英音 əd'maɪə(r)  
 英音
 <audio src="./media/admire-B.aac" controls="controls"></audio>
