@@ -68,3 +68,20 @@
 
 ## 学习方法
 
+
+
+## 引用
+
+\# 学习资源
+
+github是个好地方，这里仅举几例
+
+* 甲种本
+
+	* [代数](https://github.com/fanhongtao/ebooks)
+
+	* [物理](https://github.com/jamesfang8499/physics1)
+
+		~~不会有人找不到其他两本吧，不会吧不会吧~~
+
+* [维克多词典](https://github.com/1299172402/weici)
