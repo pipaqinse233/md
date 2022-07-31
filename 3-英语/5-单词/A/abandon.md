@@ -1,4 +1,4 @@
-# ***\#abandon*** vt
+# ***\#abandon*** vt.
 英音 ə'bændən  
 英音
 <audio src="./media/abandon-B.aac" controls="controls"></audio>
@@ -49,7 +49,7 @@
 
 派生词汇
 ---
-abandoned /ə'bændənd/ adj   
+[abandoned](./abandoned.md) /ə'bændənd/ adj.   
  > A shared bike is left abandoned at a bus stop.  
  > 一辆共享单车被遗弃在公交车站。    
 <audio src="./media/abandon-103_AAC.aac" controls="controls"></audio>
