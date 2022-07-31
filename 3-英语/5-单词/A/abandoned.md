@@ -1,4 +1,4 @@
-# ***\#abandoned*** adj
+# ***\#abandoned*** adj.
 英音 ə'bændənd  
 英音
 <audio src="./media/abandoned1.aac" controls="controls"></audio>
@@ -19,4 +19,7 @@
  > 一辆共享单车被遗弃在公交车站。    
 <audio src="./media/abandon-103_AAC.aac" controls="controls"></audio>
 
+## 词源说明
 
+[abandon](./abandon.md)
+-ed 形容词后缀，（n.后）“如……的”，（v.后）“被……的”
