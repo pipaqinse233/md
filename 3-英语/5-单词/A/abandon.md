@@ -54,4 +54,12 @@ abandoned /ə'bændənd/ adj
  > 一辆共享单车被遗弃在公交车站。    
 <audio src="./media/abandon-103_AAC.aac" controls="controls"></audio>
 
+## 词源说明
 
+来自`fr`*a bandon*。
+
+a- = ad- 去，往；
+band- 命令；
+-on 表名词。
+
+在别人的控制中，无限制的，即放弃
